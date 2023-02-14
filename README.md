@@ -1,10 +1,10 @@
-# SparrowTekBinding
+# BindingKit
 
 Binding framework to bind views to models for iOS apps using an MVVM design patern and architecture.  
 
 ## Example
 ```swift
-import SparrowTekBinding
+import BindingKit
 
 class MyViewModel {
     var title: Dynamic<String> = Dynamic("")
